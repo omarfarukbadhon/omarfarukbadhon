@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,c++,c" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c" /><br>
 </div>
 
 <br/>
