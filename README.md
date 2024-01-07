@@ -46,7 +46,7 @@
  <hr/>
  </div>
 
-<div align="center" display="flex">
+<div align="center" width=360>
 
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omarfarukbadhon&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
@@ -54,7 +54,7 @@
 
  </div>
 
- <div align="center">
+ <div align="center" width=360>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukbadhon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
