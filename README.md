@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
     
 [![](https://visitcount.itsvg.in/api?id=omarfarukbadhon&icon=9&color=0)](https://visitcount.itsvg.in) 
 
