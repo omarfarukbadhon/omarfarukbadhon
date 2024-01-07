@@ -46,11 +46,16 @@
  <hr/>
  </div>
 
-<div align="center">
+<div align="center" display="flex">
 
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omarfarukbadhon&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=omarfarukbadhon&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=omarfarukbadhon&theme=dark&hide_border=true)
+
+ </div>
+
+ <div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukbadhon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
  </div>
