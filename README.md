@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **HTML, CSS, JAVA Script**
+ 🌱 I’m currently learning **PCB Design, Advance Electronics**
 
  </div>
  
