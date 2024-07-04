@@ -34,6 +34,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=python,c" /><br>
+    <img src="https://skillicons.dev/icons?i=altium, solidworks" /><br>
 </div>
 
 <br/>
